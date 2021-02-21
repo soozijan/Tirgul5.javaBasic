@@ -11,4 +11,14 @@ public class MyClass1 {
     public String getNameClass()   {
         return nameClass;
     }
+     public void setNumClass(int newNumberClass)   {
+        numClass = newNumberClass;
+    }
+    
+    public void setNameClass(String newNameClass)   {
+        nameClass = newNameClass;
+    }
 }
+
+
+
